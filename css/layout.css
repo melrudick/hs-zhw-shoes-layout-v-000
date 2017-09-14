@@ -42,7 +42,7 @@
   display: inline-block;
 }
 .first {
-  
+  margin-left: 0%;
 }
 .middle {
   float: right;
