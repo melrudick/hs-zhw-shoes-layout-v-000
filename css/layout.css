@@ -39,7 +39,7 @@
 .col-3 {
   margin: 5px;
   width: 28%;
-  /*display: inline-block;*/
+  display: inline-block;
 }
 .first {
   margin-left: 0%;
