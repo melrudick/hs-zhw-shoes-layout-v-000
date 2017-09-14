@@ -41,6 +41,9 @@
   width: 28%;
   display: inline-block;
 }
+.first {
+  margin-left: 0%;
+}
 .middle {
   float: right;
 }
