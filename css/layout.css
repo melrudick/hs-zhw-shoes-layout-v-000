@@ -41,7 +41,7 @@
   width: 100%;
 }
 
-.first {
+[class*="col-"]:first-child {
   margin-left: 0%;
 }
 
